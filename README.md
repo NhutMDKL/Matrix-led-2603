@@ -6,7 +6,7 @@ nhập chữ qua webserver AP, tốc độ chỉnh bằng biến trở.
 ## Hardware
 - ESP32
 - LED Matrix 32x8 (MAX7219)
-- Biến trở 10kΩ
+- Biến trở 50kΩ
 
 ## Wiring
 ![wiring](Schematic_LED_Matrix_ESP32.png)
