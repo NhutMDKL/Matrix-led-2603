@@ -4,7 +4,7 @@ ESP32 điều khiển LED ma trận 32x8 (MAX7219),
 nhập chữ qua webserver AP, tốc độ chỉnh bằng biến trở.
 
 ## Video demo:
-https://youtu.be/xxxx
+https://youtu.be/kjCh97-rdko?si=RiZvNzTcx3N2pl1N
 
 ## Hardware
 - ESP32
