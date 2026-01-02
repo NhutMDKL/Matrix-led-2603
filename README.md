@@ -17,4 +17,4 @@ nhập chữ qua webserver AP, tốc độ chỉnh bằng biến trở.
 - Nhập chữ để hiển thị
 
 ## Demo
-![demo](demo.gif)
+![demo](Matrix_Led_ESP32_demo.gif)
